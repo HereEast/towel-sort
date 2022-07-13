@@ -1,5 +1,3 @@
-
-
 module.exports = function towelSort (matrix) {
   if (matrix == undefined || matrix == []) {
     return [];
